@@ -1,5 +1,5 @@
 import React, { useRef } from 'react'
-import GradientButton from '../components/GradientButton'
+import GradientButton from '../components/gradientbutton'
 import projects from '../components/projectsData'
 import { gsap } from "gsap";
 import { useGSAP } from "@gsap/react";

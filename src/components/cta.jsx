@@ -1,5 +1,5 @@
 import React, { useRef } from 'react'
-import GradientButton from './GradientButton'
+import GradientButton from './gradientbutton'
 import { gsap } from "gsap";
 import { useGSAP } from '@gsap/react';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
